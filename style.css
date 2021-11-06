@@ -1,0 +1,137 @@
+img{
+
+flex: auto;
+margin-left: 460px;
+
+}
+
+div{
+
+background-color: blueviolet;    
+color: cornsilk;
+}
+
+/* form {
+color: cornsilk;
+    background-color: blueviolet;
+
+} */
+
+h1{
+
+text-align:center ;
+text-decoration: underline;
+color: blueviolet;
+
+
+}
+
+.number{
+
+margin-left: 20px;
+
+}
+
+.first{
+
+margin-left: 62px;
+}
+
+.second{
+
+margin-left: 64px;
+
+}
+
+.firstselect{
+
+margin-left: 38px;
+
+}
+
+.gender{
+margin-left: 157px;
+margin-top: -20px;    
+}
+
+
+
+.email{
+
+margin-left: 83px;
+
+}
+
+.city{
+
+margin-left: 117px;
+
+}
+
+.address{
+
+margin-left: 158px;
+margin-top:-30px ;
+}
+
+.pincode{
+
+margin-left: 80px;
+
+}
+
+.state{
+
+margin-left: 105px;    
+
+}
+
+.country{
+
+margin-left: 75px; 
+    
+}
+
+.kinds{
+
+margin-left: 153px;    
+margin-top:-20px;
+}
+
+.others{
+margin-top: -14px;
+margin-left: 152px;
+    
+}
+.table{
+    margin-top: -35px;
+    margin-left: 145px;
+}
+
+.tr1{
+
+margin-top: -36px;
+    
+}
+
+.tr{
+    padding: 0 5px;
+}
+
+.courses{
+margin-top: -20px;
+margin-left: 150px;
+
+}
+
+.button{
+
+    margin-left: 500px;
+
+}
+
+div{
+
+margin-left: 27px;
+margin-right: 27px;
+}
